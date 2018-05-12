@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9286
     wikipedia: http://en.wikipedia.org/wiki/J._Arthur_Thomson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39002#Herbert-Spencer
 gutenberg_issued: '2012-02-28'
 gutenberg_type: Text
 identifiers:
